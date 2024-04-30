@@ -1,5 +1,3 @@
-# Ethical-Hacking-Techniques---19CS417-
-Ethical Hacking Techniques - 19CS417 
 # Echoserver
 Echo server and client using python socket
 
